@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="bottom_normal">16sp</dimen>
+    <dimen name="listview_normal">25sp</dimen>
+    <dimen name="index_ring_number_size">30sp</dimen>
+    <dimen name="twocodename">22sp</dimen>
+    <dimen name="nomal">10sp</dimen>
+    <dimen name="set_title_size">20sp</dimen>
+    <dimen name="temperature">150sp</dimen>
+    <dimen name="nomal_max">18sp</dimen>
+    <dimen name="all_title">35sp</dimen>
+    <dimen name="ziti">15sp</dimen>
+    <dimen name="small_newstitle">15sp</dimen>
+    <dimen name="newsnum">12sp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>
