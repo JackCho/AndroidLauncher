@@ -515,10 +515,10 @@ public class ScrollLayout extends ViewGroup implements OnDataChangeListener {
 				@Override
 				public boolean onLongClick(View v) {
 					Log.e("test", "onLongClick");
-					if (Mode != Mode_Scroll) {
+//					if (Mode != Mode_Scroll) {
 						return onItemLongClick(v);
-					}
-					return false;
+//					}
+//					return false;
 				}
 			});
 
